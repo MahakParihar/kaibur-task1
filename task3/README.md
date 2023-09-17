@@ -83,5 +83,3 @@ spring-server_1  | 2020-04-04 21:05:03.885  INFO 1 --- [           main] o.apach
 ![DockerServExcAndLogs](/screenshots/task3dockerServExcAndLogs.PNG)
 
 **Note:** *The docker-compose part is Documented in Task3*
-
-**If run into problem, do not hesitate to comment or connect :smile: !**
