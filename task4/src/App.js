@@ -251,16 +251,16 @@ class App extends Component {
         </Table>
         <footer class="container">
           <div class="column-left">
-            <span>Bipul Kumar (+91) 9525383930 </span> 
-            <a href="https://www.linkedin.com/in/imbipulkumar/">     
+            <span>Mahak Parihar (+91) 9938756127 </span> 
+            <a href="https://www.linkedin.com/in/mahak-parihar-1160521b3/">     
               <img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGBBp0LaObq0A/company-logo_200_200/0?e=1593648000&v=beta&t=IfuKFAmC8Vi9ryKbd4sj0Np6SFwES7VjBnZ-u-3gQnY" width="50" height="50" />
             </a>
           </div>
           <div class="column-center">
             <p>
-              <a href="mailto:imbipulkumar@gmail.com?Subject=Congratulations!" target="_top">imbipulkumar@gmail.com </a>
+              <a href="mailto:mahakParihar@gmail.com?Subject=Congratulations!" target="_top">mahakParihar@gmail.com </a>
               Fork me 
-              <a href="https://github.com/imbipulkumar/kaiburr/">     
+              <a href="https://github.com/MahakParihar/kaibur-tasks">     
                 <img alt="GitHub" src="https://avatars0.githubusercontent.com/u/9919?s=280&v=4" width="50" height="50" />
               </a>
             </p>
