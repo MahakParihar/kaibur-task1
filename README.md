@@ -1,4 +1,4 @@
-# Kaiburr tasks submitted by Mahak Parihar
+# Kaibur tasks submitted by Mahak Parihar
 
 Kaiburr Assessment Tasks
 
@@ -34,7 +34,7 @@ mahakParihar <br/>
 
 ##### Frontend
 
-- **Rect**
+- **React**
 
 ##### Backend
 - **Spring Boot**
