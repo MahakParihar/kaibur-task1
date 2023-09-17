@@ -27,7 +27,7 @@ services:
     - 27017:27017	#<host-port>:<container-port>
 
   spring-server:
-    image: imbipulkumar/task1javarestapiserver	#My task1 container image. You can set
+    image: mahakParihar/task1javarestapiserver	#My task1 container image. You can set
     ports:                                      #your own task1 container image
     - 8080:8080	#<host-port>:<container-port>
     links:

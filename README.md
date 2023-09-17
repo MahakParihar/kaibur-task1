@@ -17,7 +17,7 @@ Kaiburr Assessment Tasks
 
 ## High-level Directory Overview
 
-imbipulkumar <br/>
+mahakParihar <br/>
 ├───Kaiburr <br/>
     ├───screenshots	//Tasks I/O Screenshots and GIF <br/>
     ├───spring-server-generated //Task 2 Source Code and Documentation <br/>
@@ -89,17 +89,16 @@ Following George Foreman, I went extra miles and **DESIGNED** beautiful yet resp
 
 Link to live Application and Rest Endpoints:
 
-**GOTO Web App:**	[3.18.207.40](http://3.18.207.40/)
 
 **GOTO Swagger UI:** (OpenAPI Doc)	[3.18.207.40:8081/servers/](http://3.18.207.40:8081/servers/)
 
 **GOTO Rest Endpoints:**	[3.18.207.40:8080/servers/getServer](http://3.18.207.40:8080/servers/getServer)
 
-**HOSTED** container images on dockerhub for public consumption	[hub.docker.com/u/imbipulkumar](https://hub.docker.com/u/imbipulkumar)
+**HOSTED** container images on dockerhub for public consumption
 
 License
 ----
 
 Unilicense
 
-**If you like the project then :star: Star the Repo and connect me on [Linkedin](https://www.linkedin.com/in/imbipulkumar/) :heart:.**
+**If you like the project then :star: Star the Repo and connect me on [Linkedin](https://www.linkedin.com/in/mahak-parihar-1160521b3/) :heart:.**
