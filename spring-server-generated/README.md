@@ -1,6 +1,4 @@
-# Task 2
-
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40:8081/servers/)
+# Task 2 submitted by Mahak Parihar
 
 **NOTE:** [README First](/README.md)
 
