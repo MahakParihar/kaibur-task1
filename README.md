@@ -1,8 +1,6 @@
-# Kaiburr
+# Kaiburr tasks submitted by Mahak Parihar
 
 Kaiburr Assessment Tasks
-
-:globe_with_meridians: :rocket: [LIVE APP](http://3.18.207.40/)
 
 ## Local Build Demo
 
