@@ -83,7 +83,7 @@ As George Foreman said:
 
 
 
-Following George Foreman, I went extra miles and **DESIGNED** beautiful yet responsive Web App, **BUILD** Containerize services and **DEPLOYED** the Project (all tasks included) live Amazon AWS EC2 instance.
+Following George Foreman, I went extra miles and **DESIGNED** beautiful yet responsive Web App, **BUILD** Containerize services & **DEPLOYED** the Project (all tasks included) live Amazon AWS EC2 instance.
 
 Link to live Application and Rest Endpoints:
 
