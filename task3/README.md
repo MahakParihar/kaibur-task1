@@ -37,7 +37,7 @@ services:
 1. Go to `/Task1docker-compose` folder
 
 2. Run `sudo docker-compose up`
-Containers of Task2 and Task4 will load and run.
+Containers of Task2 and Task4 will load and run
 
 Web App will start and available at port `80` of the `localhost`.
 
